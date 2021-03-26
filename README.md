@@ -20,7 +20,7 @@
 
 [![TroJanz](https://img.shields.io/badge/OBMOVIEZ-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/OBMOVIEZ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/OBMOVIEZSUPPORT-Support-red?style=flat&logo=telegram)](https://telegram.dog/OBMOVIEZSupport)  [![Owdver_Bot]
+[![TroJanz](https://img.shields.io/badge/OBMOVIEZSUPPORT-Support-red?style=flat&logo=telegram)](https://telegram.dog/OBMOVIEZSupport)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/owdver/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/owdver/Auto-Filter-Bot)
 
