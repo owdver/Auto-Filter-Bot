@@ -6,10 +6,10 @@
         "Auto",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "OBMOVIEZ"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot",
+   
+    "repository": "https://github.com/owdver/Auto-Filter-Bot",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "TG_BOT_TOKEN": {
